@@ -1,4 +1,4 @@
-# ud585 - Pitch-Perfect
+# ud585 - Pitch Perfect
 The Pitch Perfect project for Udacity Course - ud585
 
 Harry Eng
